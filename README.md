@@ -1,3 +1,4 @@
+# .github
 # Waste Warrior
 
 This project is a part of the BSc in Software Engineering studies at SDU Sønderborg, specifically within the first semester's course called Semester Project.
